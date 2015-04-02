@@ -43,23 +43,23 @@ Dependencies:
 Committers and Contributors:
 =============================
 
-  - Name of and affiliation of the project leader : 
+  - Name of and affiliation of the project leader :
 
-    + Christopher Price: christopher.price@ericsson.com
+    + Christopher Price: christopher.price@ericsson.com 
 
-  - Names and affiliations of the committers
+  - Names and affiliations of the committers 
 
-    + Christopher Price: christopher.price@ericsson.com
-    + Wenjing Chu (Dell):  wenjing_chu@dell.com 
-    + Ashiq Khan (NTTdocomo): khan@nttdocomo.com
-    + Fatih Degirmenci: fatih.degirmenci@ericsson.com
-    + Rodriguez, Iben: Iben.Rodriguez@spirent.com
-    + Malla Reddy Sama: sama@docomolab-euro.com
+    - Christopher Price: christopher.price@ericsson.com 
+    - Wenjing Chu (Dell):  wenjing_chu@dell.com 
+    - Ashiq Khan (NTTdocomo): khan@nttdocomo.com 
+    - Fatih Degirmenci: fatih.degirmenci@ericsson.com 
+    - Rodriguez, Iben: Iben.Rodriguez@spirent.com 
+    - Malla Reddy Sama: sama@docomolab-euro.com 
 
-  - Any other contributors
+  - Any other contributors 
 
-    + Bryan Sullivan (AT&T)
-    + Trevor Cooper: trevor.cooper@intel.com
+    - Bryan Sullivan (AT&T) 
+    - Trevor Cooper: trevor.cooper@intel.com 
 
 
 Description of roles in the documentation project:
