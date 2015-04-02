@@ -39,21 +39,28 @@ Dependencies:
   - Upstream project documentation to be referenced 
   - Where there are external fora or standard development organization dependencies, list informative and normative references & specifications.
 
+
 Committers and Contributors:
 =============================
 
   - Name of and affiliation of the project leader : 
+
     + Christopher Price: christopher.price@ericsson.com
+
   - Names and affiliations of the committers
+
     + Christopher Price: christopher.price@ericsson.com
     + Wenjing Chu (Dell):  wenjing_chu@dell.com 
     + Ashiq Khan (NTTdocomo): khan@nttdocomo.com
     + Fatih Degirmenci: fatih.degirmenci@ericsson.com
     + Rodriguez, Iben: Iben.Rodriguez@spirent.com
     + Malla Reddy Sama: sama@docomolab-euro.com
+
   - Any other contributors
+
     + Bryan Sullivan (AT&T)
     + Trevor Cooper: trevor.cooper@intel.com
+
 
 Description of roles in the documentation project:
 
@@ -65,14 +72,20 @@ Planned deliverables
 =====================
 
   - Project release documentation for OPNFV
+
     + Including collation of all release relevant project documentations
+
   - Establishment and maintenance of the OPNFV documentation processes and toolchains
+
 
 Proposed Release Schedule:
 ===========================
 
   - opnfvdocs will follow each OPNFV release and produce needed documentation
+
     + Release 1 will provide basic documentation including revision control.
     + By release 2 a multi-project toolchain will be in place with processes and version control
     + Iterative improvements to the processes and toolchains are expected on a release by release basis.
+
+
 
