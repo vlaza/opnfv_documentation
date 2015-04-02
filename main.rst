@@ -2,18 +2,21 @@
 Project Name:
 ##############
 
-  - Proposed name for the project: ''opnfv documentation''
-  - Proposed name for the repository: ''opnfvdocs''
-  - Project Categories: Documentation
+- Proposed name for the project: ''opnfv documentation''
+- Proposed name for the repository: ''opnfvdocs''
+- Project Categories: Documentation
 
 Project description:
 =====================
 
-  - Produce documentation for OPNFV releases including but not limited to:
-    + Release notes
-    + Installation guide
-    + User guide
-    + Any relevant references and interface specifications for OPNFV projects or components.
+- Produce documentation for OPNFV releases including but not limited to:
+
+  - Release notes
+  - Installation guide
+  - User guide
+
+    - Any relevant references and interface specifications for OPNFV projects or components.
+
   - Include any architecture diagrams or specifications, reference to OPNFV requirements list.
   - Provide guidelines and tooling for documentation handling across all OPNFV projects 
 
