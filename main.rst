@@ -24,11 +24,11 @@ Scope:
   * Following as close as possible the same contribution process & tools as our source code
   * Structure OPNFV documentation logically
   * Develop initial set of release documents: 
-    - (A) Release note
-    - (B) Install guide
-    - (C) User Guide
-    - (D) API reference (if there is content in release 1)
-    - (E) Interface specification  (if there is content in release 1)
+    + (A) Release note
+    + (B) Install guide
+    +(C) User Guide
+    +(D) API reference (if there is content in release 1)
+    +(E) Interface specification  (if there is content in release 1)
   * Provide language options for documentation where applicable: In first release English only, Wiki (via HTML scraping from Gerrit), and PDF.
   * Provide tooling and processes for OPNFV projects to implement and follow for consistency
 
