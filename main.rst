@@ -1,14 +1,14 @@
 :title: Project Name: Documentation
 
 Project Name: Documentation
-############################
+============================
 
 - Proposed name for the project: ''opnfv documentation''
 - Proposed name for the repository: ''opnfvdocs''
 - Project Categories: Documentation
 
 Project description:
-=====================
+---------------------
 
 - Produce documentation for OPNFV releases including but not limited to:
 
@@ -22,7 +22,7 @@ Project description:
   - Provide guidelines and tooling for documentation handling across all OPNFV projects 
 
 Scope:
-=======
+-------
 
 - Set up a structure, and a template, for document development with source control (same as source code). Leveraging upstream documentation structure and tools.
 - Following as close as possible the same contribution process & tools as our source code
@@ -39,7 +39,7 @@ Scope:
 - Provide tooling and processes for OPNFV projects to implement and follow for consistency
 
 Dependencies:
-==============
+--------------
 
 - All OPNFV projects participating in a release.
 - Upstream project documentation to be referenced 
@@ -47,7 +47,7 @@ Dependencies:
 
 
 Committers and Contributors:
-=============================
+-----------------------------
 
 - Name of and affiliation of the project leader :
 
@@ -75,7 +75,7 @@ Description of roles in the documentation project:
 - other projects: Committers will be responsible for maintaining documentation artifacts in project repositories.
 
 Planned deliverables
-=====================
+---------------------
 
 - Project release documentation for OPNFV
 
@@ -85,7 +85,7 @@ Planned deliverables
 
 
 Proposed Release Schedule:
-===========================
+---------------------------
 
 - opnfvdocs will follow each OPNFV release and produce needed documentation
 
