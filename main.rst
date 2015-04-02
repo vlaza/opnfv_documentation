@@ -1,6 +1,7 @@
-##############
-Project Name:
-##############
+:title: Project Name: Documentation
+
+Project Name: Documentation
+############################
 
 - Proposed name for the project: ''opnfv documentation''
 - Proposed name for the repository: ''opnfvdocs''
